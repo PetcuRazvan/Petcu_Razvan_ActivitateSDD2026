@@ -1,0 +1,8 @@
+﻿  FileName.c
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar2\Seminar2\FileName.c(15,23): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar2\Seminar2\FileName.c(16,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar2\Seminar2\FileName.c(84,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar2\Seminar2\FileName.c(95,43): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar2\Seminar2\FileName.c(100,48): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar2\Seminar2\FileName.c(102,47): warning C4305: 'function': truncation from 'double' to 'float'
+  Seminar2.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar2\x64\Debug\Seminar2.exe

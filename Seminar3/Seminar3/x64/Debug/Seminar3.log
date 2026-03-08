@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar3\Seminar3\FileName.c(55,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar3\Seminar3\FileName.c(86,20): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar3\Seminar3\FileName.c(95,9): warning C4101: 'masina': unreferenced local variable
+  Seminar3.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar3\x64\Debug\Seminar3.exe
