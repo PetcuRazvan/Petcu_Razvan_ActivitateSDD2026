@@ -135,21 +135,76 @@ float calculeazaPretMediu(struct Nod* lista) {
 	}
 }
 
-void stergeMasiniDinSeria(/*lista masini*/ char serieCautata) {
-	//sterge toate masinile din lista care au seria primita ca parametru.
-	//tratati situatia ca masina se afla si pe prima pozitie, si pe ultima pozitie
+void stergeMasiniDinSeria(struct Nod** lista, char serieCautata) {
+	struct Nod* curent = *lista;
+	struct Nod* prev = NULL;
+	struct Nod* next = curent->next;
+
+	if (curent->masina.serie == serieCautata) {
+		*lista = next;
+	}
+
+	prev = curent;
+	curent = curent->next;
+	next = curent->next;
+
+	while (curent != NULL) {
+
+		if (curent->masina.serie == serieCautata) {
+			prev->next = next;
+
+			free(curent->masina.model);
+			free(curent->masina.numeSofer);
+			free(curent);
+
+			curent = next;
+			if(curent != NULL) {
+				next = curent->next;
+			}
+			else {
+				next = NULL;
+			}
+		}
+		else {
+			prev = curent;
+			curent = next;
+			if (curent != NULL) {
+				next = curent->next;
+			}
+			else {
+				next = NULL;
+			}
+		}
+	}
 }
 
-float calculeazaPretulMasinilorUnuiSofer(/*lista masini*/ const char* numeSofer) {
-	//calculeaza pretul tuturor masinilor unui sofer.
-	return 0;
+float calculeazaPretulMasinilorUnuiSofer(struct Nod* lista, const char* numeSofer) {
+	float pretMediu = 0;
+	int nr = 0;
+
+	while (lista != NULL) {
+		if (strcmp(lista->masina.numeSofer, numeSofer) == 0) {
+			nr++;
+			pretMediu += lista->masina.pret;
+		}
+	}
+
+	if (nr) {
+		return pretMediu / nr;
+	} else {
+		return pretMediu;
+	}
 }
 
 int main() {
 	struct Nod* lista = citireListaMasiniDinFisier("masini.txt");
 	afisareListaMasini(lista);
-	printf("PretMediu: %.2f\n", calculeazaPretMediu(lista));
-	dezalocareListaMasini(&lista);
+	/*printf("PretMediu: %.2f\n", calculeazaPretMediu(lista));
+	dezalocareListaMasini(&lista);*/
+	stergeMasiniDinSeria(&lista, 'I');
+	printf("Am sters\n");
+	afisareListaMasini(lista);
+
 
 	return 0;
 }
