@@ -86,10 +86,10 @@ void afisareListaMasini(struct Nod* lista) {
 }
 
 void adaugaLaInceputInLista(struct Nod** lista, Masina masinaNoua) {
-	struct Nod* nodNou;
-	nodNou->masina = masinaNoua;
-	nodNou->next = *lista;
-	*lista = nodNou;
+	struct Nod nodNou;
+	nodNou.masina = masinaNoua;
+	nodNou.next = *lista;
+	*lista = &nodNou;
 }
 
 void* citireListaMasiniDinFisier(const char* numeFisier) { //void* este pointer la orice, putem lasa asa sau sa modificam in Nod*
@@ -143,33 +143,23 @@ void stergeMasiniDinSeria(struct Nod** lista, char serieCautata) {
 	struct Nod* prev = NULL;
 	struct Nod* next = curent->next;
 
-	if (curent->masina.serie == serieCautata) {
-		free(curent->masina.model);
-		free(curent->masina.numeSofer);
-		free(curent);
-
-		*lista = next;
-	}
-
-	prev = curent;
-	curent = curent->next;
-	next = curent->next;
-
 	while (curent != NULL) {
-
 		if (curent->masina.serie == serieCautata) {
-			prev->next = next;
+			if (prev != NULL) {
+				prev->next = next;
+			}
+			else {
+				*lista = next;
+			}
 
 			free(curent->masina.model);
 			free(curent->masina.numeSofer);
 			free(curent);
 
-			curent = next;
+			curent = NULL;
 		}
-		else {
-			prev = curent;
-			curent = next;
-		}
+		prev = curent;
+		curent = next;
 
 		if (curent != NULL) {
 			next = curent->next;
@@ -201,11 +191,11 @@ float calculeazaPretulMasinilorUnuiSofer(struct Nod* lista, const char* numeSofe
 
 int main() {
 	struct Nod* lista = citireListaMasiniDinFisier("masini.txt");
-	afisareListaMasini(lista);
+	//afisareListaMasini(lista);
 	/*printf("PretMediu: %.2f\n", calculeazaPretMediu(lista));
 	dezalocareListaMasini(&lista);*/
-	stergeMasiniDinSeria(&lista, 'I');
-	printf("Am sters\n");
+	stergeMasiniDinSeria(&lista, 'A');
+	//printf("Am sters\n");
 	afisareListaMasini(lista);
 
 
