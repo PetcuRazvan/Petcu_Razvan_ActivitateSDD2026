@@ -86,10 +86,10 @@ void afisareListaMasini(struct Nod* lista) {
 }
 
 void adaugaLaInceputInLista(struct Nod** lista, Masina masinaNoua) {
-	struct Nod nodNou;
-	nodNou.masina = masinaNoua;
-	nodNou.next = *lista;
-	*lista = &nodNou;
+	struct Nod* nodNou = malloc(sizeof(struct Nod));
+	nodNou->masina = masinaNoua;
+	nodNou->next = *lista;
+	*lista = nodNou;
 }
 
 void* citireListaMasiniDinFisier(const char* numeFisier) { //void* este pointer la orice, putem lasa asa sau sa modificam in Nod*
