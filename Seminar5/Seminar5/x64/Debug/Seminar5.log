@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar5\Seminar5\FileName.c(43,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar5\Seminar5\FileName.c(85,12): warning C4133: '=': incompatible types - from 'ListaDubla *' to 'Nod *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar5\Seminar5\FileName.c(127,1): warning C4715: 'citireLDMasiniDinFisier': not all control paths return a value
+  Seminar5.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar5\x64\Debug\Seminar5.exe
