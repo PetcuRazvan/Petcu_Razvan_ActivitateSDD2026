@@ -144,6 +144,10 @@ void stergeMasiniDinSeria(struct Nod** lista, char serieCautata) {
 	struct Nod* next = curent->next;
 
 	if (curent->masina.serie == serieCautata) {
+		free(curent->masina.model);
+		free(curent->masina.numeSofer);
+		free(curent);
+
 		*lista = next;
 	}
 
@@ -189,7 +193,8 @@ float calculeazaPretulMasinilorUnuiSofer(struct Nod* lista, const char* numeSofe
 
 	if (nr) {
 		return pretMediu / nr;
-	} else {
+	} 
+	else {
 		return pretMediu;
 	}
 }
