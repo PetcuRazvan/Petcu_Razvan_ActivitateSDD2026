@@ -85,8 +85,11 @@ void afisareListaMasini(struct Nod* lista) {
 	}
 }
 
-void adaugaLaInceputInLista(/*lista de masini*/ Masina masinaNoua) {
-	//adauga la inceputul listei o noua masina pe care o primim ca parametru
+void adaugaLaInceputInLista(struct Nod** lista, Masina masinaNoua) {
+	struct Nod* nodNou;
+	nodNou->masina = masinaNoua;
+	nodNou->next = *lista;
+	*lista = nodNou;
 }
 
 void* citireListaMasiniDinFisier(const char* numeFisier) { //void* este pointer la orice, putem lasa asa sau sa modificam in Nod*
@@ -158,22 +161,17 @@ void stergeMasiniDinSeria(struct Nod** lista, char serieCautata) {
 			free(curent);
 
 			curent = next;
-			if(curent != NULL) {
-				next = curent->next;
-			}
-			else {
-				next = NULL;
-			}
 		}
 		else {
 			prev = curent;
 			curent = next;
-			if (curent != NULL) {
-				next = curent->next;
-			}
-			else {
-				next = NULL;
-			}
+		}
+
+		if (curent != NULL) {
+			next = curent->next;
+		}
+		else {
+			next = NULL;
 		}
 	}
 }
