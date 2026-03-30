@@ -1,0 +1,8 @@
+﻿  FileName.c
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar6\Seminar6\FileName.c(28,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar6\Seminar6\FileName.c(220,21): warning C4047: 'function': 'NodSimplu *' differs in levels of indirection from 'NodSimplu **'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar6\Seminar6\FileName.c(220,21): warning C4024: 'emptyStack': different types for formal and actual parameter 1
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar6\Seminar6\FileName.c(227,20): warning C4047: 'function': 'NodSimplu *' differs in levels of indirection from 'NodSimplu **'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar6\Seminar6\FileName.c(227,20): warning C4024: 'emptyStack': different types for formal and actual parameter 1
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar6\Seminar6\FileName.c(110,1): warning C4716: 'size': must return a value
+  Seminar6.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar6\x64\Debug\Seminar6.exe

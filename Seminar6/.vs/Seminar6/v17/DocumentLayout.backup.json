@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\Seminar6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC44F3D6-5710-4BE4-88C1-3DE93A4B0D19}|Seminar6\\Seminar6.vcxproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\Seminar6\\Seminar6\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC44F3D6-5710-4BE4-88C1-3DE93A4B0D19}|Seminar6\\Seminar6.vcxproj|solutionrelative:Seminar6\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\Seminar6\\Seminar6\\FileName.c",
+              "RelativeDocumentMoniker": "Seminar6\\FileName.c",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\Seminar6\\Seminar6\\FileName.c*",
+              "RelativeToolTip": "Seminar6\\FileName.c*",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAOAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-30T09:31:16.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
