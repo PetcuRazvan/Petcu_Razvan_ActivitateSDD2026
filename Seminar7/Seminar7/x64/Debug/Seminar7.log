@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar7\Seminar7\Source.c(44,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar7\Seminar7\Source.c(217,1): warning C4715: 'getMasinaById': not all control paths return a value
+  Seminar7.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar7\x64\Debug\Seminar7.exe
