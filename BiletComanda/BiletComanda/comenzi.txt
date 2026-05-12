@@ -1,0 +1,10 @@
+101,Ionescu Marcel,3,150.50
+102,Popa Rebeca,1,45.00
+103,Vasilescu Dan,5,320.75
+104,Enache Mihaela,2,89.90
+105,Georgescu Vlad,10,1200.00
+106,Dumitru Oana,4,210.00
+107,Stan Robert,1,15.50
+108,Lazar Cristina,6,430.20
+109,Miron Silviu,3,180.00
+110,Constantin Elena,2,95.40

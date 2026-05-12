@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\TestRetete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5016C9AC-4424-41B3-B784-969713CDB717}|TestRetete\\TestRetete.vcxproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\TestRetete\\TestRetete\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5016C9AC-4424-41B3-B784-969713CDB717}|TestRetete\\TestRetete.vcxproj|solutionrelative:TestRetete\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\TestRetete\\TestRetete\\Source.c",
+              "RelativeDocumentMoniker": "TestRetete\\Source.c",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\TestRetete\\TestRetete\\Source.c",
+              "RelativeToolTip": "TestRetete\\Source.c",
+              "ViewState": "AgIAANEAAAAAAAAAAAAcwOEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-21T12:59:23.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

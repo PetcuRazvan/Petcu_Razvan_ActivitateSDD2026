@@ -1,0 +1,8 @@
+﻿  listaDubla.c
+  listaSimpla.c
+  Generating Code...
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\PregatireTest\PregatireTest\listaSimpla.c(36,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\PregatireTest\PregatireTest\listaSimpla.c(127,3): warning C4033: 'stergereNodSimpluDupaId' must return a value
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\PregatireTest\PregatireTest\listaSimpla.c(137,3): warning C4033: 'stergereNodSimpluDupaId' must return a value
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\PregatireTest\PregatireTest\listaSimpla.c(149,4): warning C4033: 'stergereNodSimpluDupaId' must return a value
+  PregatireTest.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\PregatireTest\x64\Debug\PregatireTest.exe

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\PregatireTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD6A67E-1DB2-4AB7-9821-424C74667012}|PregatireTest\\PregatireTest.vcxproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\PregatireTest\\PregatireTest\\listaSimpla.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DD6A67E-1DB2-4AB7-9821-424C74667012}|PregatireTest\\PregatireTest.vcxproj|solutionrelative:PregatireTest\\listaSimpla.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD6A67E-1DB2-4AB7-9821-424C74667012}|PregatireTest\\PregatireTest.vcxproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\PregatireTest\\PregatireTest\\listaDubla.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DD6A67E-1DB2-4AB7-9821-424C74667012}|PregatireTest\\PregatireTest.vcxproj|solutionrelative:PregatireTest\\listaDubla.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "listaDubla.c",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\PregatireTest\\PregatireTest\\listaDubla.c",
+              "RelativeDocumentMoniker": "PregatireTest\\listaDubla.c",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\PregatireTest\\PregatireTest\\listaDubla.c",
+              "RelativeToolTip": "PregatireTest\\listaDubla.c",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwG4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-19T16:00:15.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "listaSimpla.c",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\PregatireTest\\PregatireTest\\listaSimpla.c",
+              "RelativeDocumentMoniker": "PregatireTest\\listaSimpla.c",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\PregatireTest\\PregatireTest\\listaSimpla.c",
+              "RelativeToolTip": "PregatireTest\\listaSimpla.c",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAgwLgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-19T11:10:55.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

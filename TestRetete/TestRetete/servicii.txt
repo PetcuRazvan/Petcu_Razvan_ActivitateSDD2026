@@ -1,0 +1,10 @@
+101,Popescu Ion,150.5,30
+102,Ionescu Maria,200.0,45
+103,Georgescu Dan,80.25,15
+104,Vasilescu Ana,310.0,60
+105,Constantin Paul,120.0,25
+106,Dumitru Elena,450.75,90
+107,Stoica Radu,95.0,20
+108,Enache Sofia,210.3,40
+109,Miron Adrian,175.0,35
+110,Popa Cristian,500.0,120

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BiletComanda", "BiletComanda\BiletComanda.vcxproj", "{617B57D8-AC5A-4841-88A6-A42EE357CB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{617B57D8-AC5A-4841-88A6-A42EE357CB53}.Debug|x64.ActiveCfg = Debug|x64
+		{617B57D8-AC5A-4841-88A6-A42EE357CB53}.Debug|x64.Build.0 = Debug|x64
+		{617B57D8-AC5A-4841-88A6-A42EE357CB53}.Debug|x86.ActiveCfg = Debug|Win32
+		{617B57D8-AC5A-4841-88A6-A42EE357CB53}.Debug|x86.Build.0 = Debug|Win32
+		{617B57D8-AC5A-4841-88A6-A42EE357CB53}.Release|x64.ActiveCfg = Release|x64
+		{617B57D8-AC5A-4841-88A6-A42EE357CB53}.Release|x64.Build.0 = Release|x64
+		{617B57D8-AC5A-4841-88A6-A42EE357CB53}.Release|x86.ActiveCfg = Release|Win32
+		{617B57D8-AC5A-4841-88A6-A42EE357CB53}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B48CCB8-DE29-426C-9EAC-0DC4DF710B98}
+	EndGlobalSection
+EndGlobal

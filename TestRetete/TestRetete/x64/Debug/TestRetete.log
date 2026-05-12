@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\TestRetete\TestRetete\Source.c(42,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TestRetete.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\TestRetete\x64\Debug\TestRetete.exe

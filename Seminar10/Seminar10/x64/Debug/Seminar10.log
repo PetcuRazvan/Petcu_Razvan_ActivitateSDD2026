@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar10\Seminar10\Source.c(37,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Seminar10.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar10\x64\Debug\Seminar10.exe
