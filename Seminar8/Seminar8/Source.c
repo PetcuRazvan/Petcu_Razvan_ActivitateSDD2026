@@ -59,7 +59,7 @@ Heap initializareHeap(int lungime) {
 
 	heap.lungime = lungime;
 	heap.nrMasini = 0;
-	heap.masini = malloc(sizeof(Masina) * heap.nrMasini);
+	heap.masini = malloc(sizeof(Masina) * heap.lungime);
 
 	return heap;
 }
@@ -141,7 +141,7 @@ Masina extrageMasina(Heap* heap) {
 
 	heap->nrMasini--;
 
-	for (int i = (heap->nrMasini - 2) / 2; i >= 0; i--) {
+	for (int i = (heap->nrMasini - 2) / 2; i >= 0; i--) {  //trebuie inlocuit doar cu filteeazaHeap(*heap, 0);
 		filtreazaHeap(*heap, i);
 	}
 

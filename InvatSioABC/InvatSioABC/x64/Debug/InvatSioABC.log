@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioABC\InvatSioABC\Source.c(42,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioABC\InvatSioABC\Source.c(120,3): warning C4098: 'afisarePostOrdine': 'void' function returning a value
+  InvatSioABC.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioABC\x64\Debug\InvatSioABC.exe
