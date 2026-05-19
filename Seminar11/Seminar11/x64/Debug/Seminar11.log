@@ -1,7 +1,4 @@
 ﻿  Source.c
 C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar11\Seminar11\Source.c(36,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar11\Seminar11\Source.c(107,48): warning C4047: '==': 'NodArbore *' differs in levels of indirection from 'int'
-C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar11\Seminar11\Source.c(107,48): warning C4047: 'function': 'NodArbore *' differs in levels of indirection from 'int'
-C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar11\Seminar11\Source.c(107,48): warning C4024: 'calculeazaGradEchilibru': different types for formal and actual parameter 1
 C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar11\Seminar11\Source.c(187,1): warning C4715: 'getMasinaByID': not all control paths return a value
   Seminar11.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\Seminar11\x64\Debug\Seminar11.exe

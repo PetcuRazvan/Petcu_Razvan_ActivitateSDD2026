@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\InvatSioAVL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A417DDC3-ED08-4CA9-819C-C799AB7A1866}|InvatSioAVL\\InvatSioAVL.vcxproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\InvatSioAVL\\InvatSioAVL\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A417DDC3-ED08-4CA9-819C-C799AB7A1866}|InvatSioAVL\\InvatSioAVL.vcxproj|solutionrelative:InvatSioAVL\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A417DDC3-ED08-4CA9-819C-C799AB7A1866}|InvatSioAVL\\InvatSioAVL.vcxproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\InvatSioAVL\\InvatSioAVL\\masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A417DDC3-ED08-4CA9-819C-C799AB7A1866}|InvatSioAVL\\InvatSioAVL.vcxproj|solutionrelative:InvatSioAVL\\masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "masini.txt",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\InvatSioAVL\\InvatSioAVL\\masini.txt",
+              "RelativeDocumentMoniker": "InvatSioAVL\\masini.txt",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\InvatSioAVL\\InvatSioAVL\\masini.txt",
+              "RelativeToolTip": "InvatSioAVL\\masini.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-19T17:21:56.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\InvatSioAVL\\InvatSioAVL\\Source.c",
+              "RelativeDocumentMoniker": "InvatSioAVL\\Source.c",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\SDD\\Petcu_Razvan_ActivitateSD2026\\InvatSioAVL\\InvatSioAVL\\Source.c*",
+              "RelativeToolTip": "InvatSioAVL\\Source.c*",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAiwI8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-19T16:48:46.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿  Source.c
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(36,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(60,14): warning C4133: 'function': incompatible types - from 'NodArbore *' to 'Nod *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(68,30): warning C4133: 'function': incompatible types - from 'NodArbore *' to 'Nod *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(68,62): warning C4133: 'function': incompatible types - from 'NodArbore *' to 'Nod *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(77,14): warning C4133: '=': incompatible types - from 'Nod *' to 'NodArbore *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(75,7): warning C4133: 'initializing': incompatible types - from 'NodArbore *' to 'Nod *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(84,15): warning C4133: '=': incompatible types - from 'Nod *' to 'NodArbore *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(82,7): warning C4133: 'initializing': incompatible types - from 'NodArbore *' to 'Nod *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(91,18): warning C4133: 'function': incompatible types - from 'NodArbore **' to 'Nod **'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(94,18): warning C4133: 'function': incompatible types - from 'NodArbore **' to 'Nod **'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(99,29): warning C4133: 'function': incompatible types - from 'NodArbore *' to 'Nod *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(100,18): warning C4133: 'function': incompatible types - from 'NodArbore **' to 'Nod **'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(105,29): warning C4133: 'function': incompatible types - from 'NodArbore *' to 'Nod *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(106,19): warning C4133: 'function': incompatible types - from 'NodArbore **' to 'Nod **'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(135,23): warning C4133: 'function': incompatible types - from 'NodArbore *' to 'Nod *'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\InvatSioAVL\Source.c(137,23): warning C4133: 'function': incompatible types - from 'NodArbore *' to 'Nod *'
+  InvatSioAVL.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\SDD\Petcu_Razvan_ActivitateSD2026\InvatSioAVL\x64\Debug\InvatSioAVL.exe

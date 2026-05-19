@@ -104,7 +104,7 @@ void adaugaMasinaInArboreEchilibrat(NodArbore** root, Masina masinaNoua) {
 
 		int gradEchilibru = calculeazaGradEchilibru(*root);
 		if (gradEchilibru == 2) {  //dezechilibrat in partea stanga
-			if (calculeazaGradEchilibru((*root)->stanga == -1)) {   //cazul mai simplu
+			if (calculeazaGradEchilibru((*root)->stanga) == -1) {   //cazul mai simplu
 				rotireStanga(&(*root)->stanga);
 			}
 			rotireDreapta(root);
